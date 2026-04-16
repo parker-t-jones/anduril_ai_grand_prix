@@ -78,9 +78,9 @@ The simulator communicates over **MAVLink v2 via UDP** (MAVSDK-compatible).
 
 | Person | Role |
 |---|---|
-| Person 1 | ML lead — RL policy, reward engineering, PID baseline |
-| Teammate A | Perception — gate detection, state vector, CV pipeline |
-| Teammate B | Infrastructure — W&B experiment tracking, evaluation, analysis |
+| Cameron | ML lead — RL policy, reward engineering, PID baseline |
+| Parker | Perception — gate detection, state vector, CV pipeline |
+| Pierson | Infrastructure — W&B experiment tracking, evaluation, analysis |
 
 ---
 
